@@ -1,0 +1,10 @@
+{
+  "id": 54525752,
+  "created_at": "2024-09-05T10:04:27.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["timereg", "HaploSurvival", "scheike.r-universe.dev"]
+}
