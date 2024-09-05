@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/scheike/scheike.r-universe.dev
 	branch = HEAD
+[submodule "HaploSurvival"]
+	path = HaploSurvival
+	url = https://github.com/scheike/HaploSurvival
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/scheike/timereg
