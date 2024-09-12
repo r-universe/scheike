@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/scheike/scheike.r-universe.dev
 	branch = HEAD
-[submodule "HaploSurvival"]
-	path = HaploSurvival
-	url = https://github.com/scheike/HaploSurvival
 [submodule "crskdiag"]
 	path = crskdiag
 	url = https://github.com/scheike/crskdiag
