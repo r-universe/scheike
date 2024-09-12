@@ -5,6 +5,9 @@
 [submodule "HaploSurvival"]
 	path = HaploSurvival
 	url = https://github.com/scheike/HaploSurvival
+[submodule "crskdiag"]
+	path = crskdiag
+	url = https://github.com/scheike/crskdiag
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/scheike/timereg
