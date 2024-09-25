@@ -5,6 +5,9 @@
 [submodule "crskdiag"]
 	path = crskdiag
 	url = https://github.com/scheike/crskdiag
+[submodule "goftte"]
+	path = goftte
+	url = https://github.com/scheike/goftte
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/scheike/timereg
